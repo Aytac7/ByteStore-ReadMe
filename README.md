@@ -17,6 +17,8 @@ Layihə, güclü təhlükəsizlik tədbirləri və istifadəçi  funksionallıq 
 - PosgreSQL (verilənlər bazası)
 - Lombok 
 - Swagger (API sənədləşdirilməsi üçün)
+- Specification
+- Pagination
 - Gradle (asılılıq idarəetməsi)
 - JWT (JSON Web Token) (istifadəçi autentifikasiyası və avtorizasiyası üçün)
 - Docker
@@ -27,6 +29,7 @@ Layihə, güclü təhlükəsizlik tədbirləri və istifadəçi  funksionallıq 
 - **Authentication**: OAuth2, JWT
 - **Version Control**: Git, GitHub
 - **Deployment**: Docker, AWS
+
   
 ## Bu Layihə?
 Bu layihə, müasir elektronika satış platformalarının tələblərinə uyğun olaraq, istifadəçilərə asanlıqla elektron cihazlar satışı və alışı imkanı verən bir sistemdir. 
